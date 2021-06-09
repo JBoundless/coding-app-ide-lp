@@ -1,0 +1,29 @@
+.hero {
+  width: 100%;
+  background-image: url("https://images.hdqwalls.com/wallpapers/i-love-coding-xl.jpg");
+  background-size: cover;
+}
+
+.hero-text h1, p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+}
+
+h1 {
+  font-size: 45px;
+}
+p {
+  font-size: 25px;
+}
+img {
+  height: 100%;
+  width: 100%;
+}
+
+#hero-image {
+  background: rgba(0, 0, 0, 0.6);
+}

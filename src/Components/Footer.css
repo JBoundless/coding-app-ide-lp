@@ -1,0 +1,21 @@
+.footer {
+  background-color: #301934;
+  color: white;
+}
+
+button {
+  background-color: #BF40BF;
+  color: white;
+  padding: 10px;
+  font-family: Lato;
+  font-size: 14px;
+  margin-left: 10px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+form label {
+  padding-left: 10px;
+}
